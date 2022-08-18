@@ -36,4 +36,3 @@ Au final vous devriez avoir :
 - 1 Model
 
 Le sourire heart
-# laravel_model_exo3
